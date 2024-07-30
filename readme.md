@@ -88,4 +88,4 @@ This project successfully identified key factors contributing to customer churn 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telecom-customer-churn.git
+   git clone https://github.com/adeline-pepela/telecom-customer-churn.git
